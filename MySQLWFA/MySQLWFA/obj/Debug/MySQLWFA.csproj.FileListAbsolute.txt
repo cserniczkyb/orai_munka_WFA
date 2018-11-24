@@ -1,0 +1,28 @@
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\bin\Debug\MySQLWFA.exe.config
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\bin\Debug\MySQLWFA.exe
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\bin\Debug\MySQLWFA.pdb
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.Form1.resources
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.Properties.Resources.resources
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.csproj.GenerateResource.Cache
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.exe
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.pdb
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\bin\Debug\Google.Protobuf.dll
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\bin\Debug\MySql.Data.dll
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\bin\Debug\Google.Protobuf.xml
+D:\PROGRAMMING\14S\Cserniczky Barnabás\MySQLWFA\MySQLWFA\bin\Debug\MySql.Data.xml
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\bin\Debug\MySQLWFA.exe.config
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\bin\Debug\MySQLWFA.exe
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\bin\Debug\MySQLWFA.pdb
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\bin\Debug\Google.Protobuf.dll
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\bin\Debug\MySql.Data.dll
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\bin\Debug\Google.Protobuf.xml
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\bin\Debug\MySql.Data.xml
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.csprojAssemblyReference.cache
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.Form1.resources
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.Properties.Resources.resources
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.csproj.GenerateResource.cache
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.csproj.CoreCompileInputs.cache
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.csproj.CopyComplete
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.exe
+C:\Users\Barni\Desktop\MySQLWFA\MySQLWFA\obj\Debug\MySQLWFA.pdb
